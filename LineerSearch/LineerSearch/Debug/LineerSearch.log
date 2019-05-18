@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  LineerSearch.cpp
+c:\users\lenovo\desktop\github\searchingalgorithms\lineersearch\lineersearch\lineersearch.cpp(16): warning C4715: 'LineerSearch': not all control paths return a value
+  LineerSearch.vcxproj -> C:\Users\lenovo\Desktop\GitHub\SearchingAlgorithms\LineerSearch\Debug\LineerSearch.exe
